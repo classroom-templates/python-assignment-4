@@ -18,6 +18,8 @@ Whenever possible, include a **specific example from your program, your testing,
 
 Each question is worth **2 points**, for a total of **10 points**.
 
+Number your answers.
+
 ## 1. AI Use
 
 What generative AI system did you use, and describe one specific way you used it to help design, debug, test, or improve this program.
