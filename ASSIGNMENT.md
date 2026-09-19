@@ -54,9 +54,9 @@ Before beginning this assignment, you should have:
 - completed **Assignment 1: Getting Started**;
 - completed **Assignment 2: First Code**;
 - completed **Assignment 3: Shipping Cost Calculator**;
-- completed the **Decision-Making I** material (lecture 04-lecture_intro_boolean logic_09-03 and notes in the notes folder);
-- completed the **Flow Control: Decision Making Part II** material(05-lecture_control_flow_09-08 and notes in the notes folder);
-- completed the **Flow Control: Repetition Part I** material(06-lecture_repetition_09-10 and notes in the notes folder);
+- completed the **Decision-Making I** material (_lecture 04-lecture_intro_boolean logic_09-03_ and notes in the notes folder);
+- completed the **Flow Control: Decision Making Part II** material(_05-lecture_control_flow_09-08_ and notes in the notes folder);
+- completed the **Flow Control: Repetition Part I** material(_06-lecture_repetition_09-10_ and notes in the notes folder);
 - reviewed the [Best Practices for Procedural Programming](https://katrompas.accprofessors.com/best-practice-procedural-programming);
 - reviewed the course [Commenting Guidelines](https://katrompas.accprofessors.com/commenting);
 - reviewed the [.gitignore guidelines](https://katrompas.accprofessors.com/gitignore-guidelines);
